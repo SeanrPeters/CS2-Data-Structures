@@ -1,2 +1,8 @@
-data3-2-1.txt
+
+( A * ( B * C ) ) ;
+( ( A - ( B * C ) ) + E ) ;
+( A + ( B * C ) ) / ( D - E ) ) ;
+( ( ( A * B ) / C ) - ( ( D + E ) * F ) ) ;
+( ( AX * BX ) + ( ( ( ( ( ( CX - DY ) * EX ) * FX ) * GY ) * HX ) + JY ) ) ;
+
 
